@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4888fcbaa9bc74b2509c1a59ac81fc13.js"
+  "/precache-manifest.c60e2f1a9882c17a9beeefa16dd6cf75.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "truthordare"});
